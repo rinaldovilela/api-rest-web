@@ -1,0 +1,6 @@
+GET http://localhost:3333/developers
+
+###
+
+POST http://localhost:3333/developers
+Content-Type: application/json
